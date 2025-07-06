@@ -7,6 +7,6 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/pb_akari.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_akari-user \
-    twrp_akari-userdebug \
-    twrp_akari-eng
+    pb_akari-user \
+    pb_akari-userdebug \
+    pb_akari-eng
