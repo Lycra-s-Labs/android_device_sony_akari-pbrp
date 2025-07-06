@@ -1,0 +1,8 @@
+[
+  {
+    "remote": "github",
+    "repository": "miyoubi/kernel_sony_sdm845",
+    "target_path": "kernel/sony/sdm845",
+    "revision": "twrp"
+  }
+]
