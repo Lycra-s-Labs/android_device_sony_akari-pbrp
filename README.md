@@ -6,6 +6,7 @@ The Sony Xperia XZ2 (codenamed _"akari"_) is a high-end smartphone from Sony
 
 Sony Xperia XZ2 was announced and released in early 2018
 ![Xperia XZ2](https://fdn2.gsmarena.com/vv/pics/sony/sony-xperia-xz2-001.jpg)
+
 ## Device specifications
 
 Basic   | Spec Sheet
